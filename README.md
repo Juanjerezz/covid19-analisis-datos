@@ -60,8 +60,9 @@ Se aplicaron pasos de preparación en Power Query para garantizar la calidad del
 - Mayor cantidad en los primeros meses, con descenso hacia fin de año.  
 
 🔹 **Clasificación de casos**  
-- Confirmados: ~70 %  
-- Descartados: ~29 %  
+- Confirmados: ~70.65 %  
+- Descartados: ~29.34 %
+- Sospechosos: ~00.01 %
 
 🔹 **Distribución por edad y género**  
 - Predominio en adultos entre 40 y 65 años.  
